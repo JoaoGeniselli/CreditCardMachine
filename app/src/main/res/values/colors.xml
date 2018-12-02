@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Theme -->
+    <color name="colorPrimary">#1976d2</color>
+    <color name="colorPrimaryDark">#004ba0</color>
+    <color name="colorAccent">#616161</color>
+    <color name="white">#FFF</color>
+
+    <!-- Snow Theme -->
+    <color name="snowColorPrimary">#fafafa</color>
+    <color name="snowColorPrimaryDark">#c7c7c7</color>
+    <color name="snowColorAccent">#eceff1</color>
+    <color name="snowTextColor">#424242</color>
+
+</resources>
